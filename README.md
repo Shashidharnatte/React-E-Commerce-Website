@@ -29,7 +29,7 @@ Then getting into each page one by one:
 
 **Home Page**
 
-Link to the page: [Home_Page](https://sunny-malabi-db0eb7.netlify.app/)
+Link to the page: [HomePage](https://sunny-malabi-db0eb7.netlify.app/)
 
 ![Home](https://github.com/Shashidharnatte/React-E-Commerce-Website/blob/main/Photos%20of%20pages%20(ecommerce)/home.png)
 
